@@ -6,6 +6,8 @@ prose. Includes a running commentary to explain WTF is going on in the code, so
 beginner programmers get to see the movement of thought used to solve the
 problem as the code unfolds. Enjoy..! :-)
 
+You can run this Jupyter notebook online here: https://mybinder.org/v2/gh/ntoll/pride_and_prejudice_and_python/master
+
 Example Output
 --------------
 

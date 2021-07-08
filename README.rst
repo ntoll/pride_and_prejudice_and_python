@@ -1,8 +1,8 @@
 Pride and Prejudice and Python
 ==============================
 
-A Jupyter notebook that uses n-grams and Markov chains to create Austen like
-prose. Includes a running commentary to explain WTF is going on in the code, so
+A Jupyter notebook that uses n-grams to create Austen like prose. Includes a
+running commentary to explain what on earth is going on in the code, so
 beginner programmers get to see the movement of thought used to solve the
 problem as the code unfolds. Enjoy..! :-)
 
